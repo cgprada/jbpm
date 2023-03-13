@@ -1,0 +1,1 @@
+{"id":"8488ae6d-bb50-4217-ba72-15438c23cd68","name":"tarea-link-taskform.frm","model":{"taskName":"tarea-link","processId":"POC-Iframe.POC-Iframe","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
