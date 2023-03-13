@@ -1,0 +1,1 @@
+{"id":"8f24293e-c0c1-4b5f-b6bd-44c5dab76290","name":"tarea-usuario-taskform.frm","model":{"taskName":"tarea-usuario","processId":"POC-Iframe.POC-Iframe","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
